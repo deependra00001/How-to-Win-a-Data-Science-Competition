@@ -1,1 +1,1 @@
-# https-github.com-deependra00001-How-to-Win-a-Data-Science-Competition
+How-to-Win-a-Data-Science-Competition
